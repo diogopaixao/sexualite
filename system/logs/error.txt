@@ -1,0 +1,29 @@
+2013-06-29 22:50:43 - PHP Notice:  Undefined variable: product in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 22:50:49 - PHP Notice:  Undefined variable: product in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 22:51:49 - PHP Notice:  Undefined variable: product in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 22:55:16 - PHP Notice:  Undefined variable: product in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 22:55:23 - PHP Notice:  Undefined variable: product in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:05:42 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:05:42 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:05:49 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:05:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:09:13 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:09:13 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:10:44 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:10:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:11:09 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:11:09 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:11:39 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:11:39 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:12:08 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:12:08 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:12:37 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:12:37 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:13:07 - PHP Notice:  Undefined variable: links in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-29 23:13:07 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/catalog/view/theme/egestas/template/product/product.tpl on line 17
+2013-06-30 10:24:49 - PHP Warning:  unlink(/var/www/system/cache/cache.product.total.5.0.1.d2f0f4ee1aa634a2ffafedffe345b13f.1372602987): No such file or directory in /var/www/system/library/cache.php on line 18
+2013-06-30 10:24:49 - PHP Warning:  unlink(/var/www/system/cache/cache.product.total.5.0.1.d66738b6d0af5c0728faaf906e9dee9f.1372602938): No such file or directory in /var/www/system/library/cache.php on line 18
+2013-06-30 10:24:49 - PHP Warning:  file_get_contents(/var/www/system/cache/cache.product.total.5.0.1.55a55c38d5843283d148d3b96c9a1245.1372602938): failed to open stream: No such file or directory in /var/www/system/library/cache.php on line 9
+2013-06-30 10:24:49 - PHP Warning:  file_get_contents(/var/www/system/cache/cache.product.total.5.0.1.7802433898fd20d5d6406c199767686e.1372602987): failed to open stream: No such file or directory in /var/www/system/library/cache.php on line 9
+2013-06-30 10:24:49 - PHP Warning:  unlink(/var/www/system/cache/cache.product.total.5.0.1.b2dc271f6ec4a17bdca8bcffb6ae8230.1372602938): No such file or directory in /var/www/system/library/cache.php on line 18
+2013-06-30 10:24:49 - PHP Warning:  file_get_contents(/var/www/system/cache/cache.product.total.5.0.1.046192a48e7f5f4e09cd0c197923f39d.1372602987): failed to open stream: No such file or directory in /var/www/system/library/cache.php on line 9
